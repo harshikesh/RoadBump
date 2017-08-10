@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "65477926597",
+    "firebase_url": "https://bump-dc71f.firebaseio.com",
+    "project_id": "bump-dc71f",
+    "storage_bucket": "bump-dc71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65477926597:android:1231e934dc109c6b",
+        "android_client_info": {
+          "package_name": "majestic.roadbump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65477926597-ogfmkbh2g31ompfj0jd919lmefl85m01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "majestic.roadbump",
+            "certificate_hash": "23112E09C00C16178CBB3B7AA2380060FCBC1FD2"
+          }
+        },
+        {
+          "client_id": "65477926597-mefa1o4cq36tbdh2pfjj2bdibh9c7n0n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "65477926597-i2v0h4tul136isug4jeequjrv4knggcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHrrvvjn7Sxecozaa9j2T-5yrNeSDCRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65477926597-mefa1o4cq36tbdh2pfjj2bdibh9c7n0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65477926597:android:58dd3e154e804c9a",
+        "android_client_info": {
+          "package_name": "com.roadbump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65477926597-mp1q5qvq42enidmvd8ja70vnj73o3be3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roadbump",
+            "certificate_hash": "25112E09C00C16178CBB3B7AA2380060FCBC1FD2"
+          }
+        },
+        {
+          "client_id": "65477926597-mefa1o4cq36tbdh2pfjj2bdibh9c7n0n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "65477926597-i2v0h4tul136isug4jeequjrv4knggcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHrrvvjn7Sxecozaa9j2T-5yrNeSDCRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65477926597-mefa1o4cq36tbdh2pfjj2bdibh9c7n0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
